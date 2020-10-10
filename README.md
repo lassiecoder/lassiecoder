@@ -24,13 +24,11 @@
   </tr>
   <tr> <!--     NO USE TR  --></tr>
   <tr>
+  <td colspan="4"><b>Skills: </b> <i>HTML, CSS, SCSS, Git, Vanilla JS, jQuery, React JS, MongoDB</i> || <b>Currently focusing on: </b> <i>React Native</i> </td>
+ </tr>
+ <tr> <!--     NO USE TR  --></tr>
+  <tr>
     <td colspan="3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lassiecoder&theme=radical" /> </td>
     <td colspan="1"><img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder" /></td>
   </tr>
- <tr> <!--     NO USE TR  -->  </tr>
- <tr>
-  <td colspan="4"><b>Skills: </b> <i>HTML, CSS, SCSS, Git, Vanilla JS, jQuery, React JS, MongoDB</i> || <b>Currently focusing on: </b> <i>React Native</i> </td>
-<!--   <td colspan="1"> </td> -->
- </tr>
- 
 </table>

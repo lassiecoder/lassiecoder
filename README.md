@@ -17,18 +17,21 @@
       </ul>
     </td>
   </tr>
-  <tr>
-<!--     NO USE TR -->
-  </tr>
+  <tr> <!--     NO USE TR --> </tr>
   <tr>
     <td colspan="4"><p style="padding: 400px">I describe myself as a developer who like to code things from scratch, enjoy bringing ideas to life in the browser and contribute to open source projects. That helps me to learn a lot of new stuff, grow as a developer & support other open source projects.</p></td>
 <!--     <td>qowekq</td> -->
   </tr>
-  <tr>
-<!--     NO USE TR  -->
-  </tr>
+  <tr> <!--     NO USE TR  --></tr>
   <tr>
     <td colspan="3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lassiecoder&theme=radical" /> </td>
     <td colspan="1"><img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder" /></td>
   </tr>
+ <tr> <!--     NO USE TR  -->  </tr>
+ <tr>
+  <td colspan="4"><b>Skills: </b> <i>HTML, CSS, SCSS, Git, Vanilla JS, jQuery, React JS, MongoDB</i> || <b>Currently focusing on: </b> <i>React Native</i> </td>
+<!--   <td colspan="1"> </td> -->
+ </tr>
+ <tr> <!--     NO USE TR  --></tr>
+ 
 </table>

@@ -32,6 +32,5 @@
   <td colspan="4"><b>Skills: </b> <i>HTML, CSS, SCSS, Git, Vanilla JS, jQuery, React JS, MongoDB</i> || <b>Currently focusing on: </b> <i>React Native</i> </td>
 <!--   <td colspan="1"> </td> -->
  </tr>
- <tr> <!--     NO USE TR  --></tr>
  
 </table>

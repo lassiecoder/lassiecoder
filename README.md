@@ -10,9 +10,9 @@
     <td colspan="2" width="20%"><img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="100%" alt="girlCodingGIF" /></td>
     <td colspan="2" width="600">
       <ul>
-        <li><b>Volunteer</b> at <a href=""><b>WWCode Frontend</b></a> </li>
-        <li><b>Member</b> of <a href=""><b>Google Developer Group,</b></a> Bhubaneswar.</li>
-        <li><b>Member</b> at <a href=""><b>Codecademy</b></a>. </li>
+        <li><b>Volunteer</b> at <a href="https://www.womenwhocode.com/frontend"><b>WWCode Frontend</b></a> </li>
+        <li><b>Member</b> of <a href="https://gdg.community.dev/gdg-bhubaneswar/"><b>Google Developer Group,</b></a> Bhubaneswar.</li>
+        <li><b>Member</b> at <a href="https://www.codecademy.com/"><b>Codecademy</b></a>. </li>
         <li><b>Frontend Engineer</b> at <a href=""><b>Edufund India</b></a></li>
       </ul>
     </td>

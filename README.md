@@ -28,12 +28,19 @@
  </tr>
  <tr> <!--     NO USE TR  --></tr>
   <tr>
-    <td colspan="3"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lassiecoder&theme=radical" /> </td>
-    <td colspan="1"><img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder" /></td>
+    <td colspan="3">
+     <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues,contribs" />
+<!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lassiecoder&theme=radical&show_icons=true" /> -->
+   </td>
+    <td colspan="1">
+     <code>
+     <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=radical" />
+     </code>
+<!--      https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder -->
+   </td>
   </tr>
  <tr> <!--     NO USE TR  --></tr>
   <tr>
-   
   <td colspan="4">
    <div><p><b>Find me on:</b></p></div>
 <!--    <div><b>Skills: </b> <i>HTML, CSS, SCSS, Git, Vanilla JS, jQuery, React JS, MongoDB</i> || <b>Currently focusing on: </b> <i>React Native</i> </div> -->

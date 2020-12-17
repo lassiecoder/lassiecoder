@@ -13,7 +13,7 @@
         <li><b>Volunteer</b> at <a href="https://www.womenwhocode.com/frontend"><b>WWCode Frontend</b></a> </li>
         <li><b>Member</b> of <a href="https://gdg.community.dev/gdg-bhubaneswar/"><b>Google Developer Group,</b></a> Bhubaneswar.</li>
         <li><b>Member</b> at <a href="https://www.codecademy.com/"><b>Codecademy</b></a>. </li>
-        <li><b>Frontend Engineer</b> at <a href=""><b>Edufund India</b></a></li>
+        <li><b>Frontend Engineer</b> at <a href="https://www.educationfund.in/"><b>Edufund India</b></a></li>
       </ul>
     </td>
   </tr>

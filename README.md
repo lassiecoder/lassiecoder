@@ -50,7 +50,7 @@
   <a href="https://medium.com/@sharmapriyanka84510"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174858.svg" width="30" height="30"></a>  &nbsp&nbsp&nbsp
   <a href="https://twitter.com/lassiecoder"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" width="30" height="30"></a>  &nbsp&nbsp&nbsp
   <a href="mailto:sharmapriyanka84510@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" width="30" height="30"></a>  &nbsp&nbsp&nbsp
-  <a href="https://telegram.me/lassiecoder"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a> &nbsp&nbsp&nbsp
+  <a href="https://telegram.me/lassie"><img src="https://www.flaticon.com/svg/static/icons/svg/1532/1532545.svg" width="30" height="30"></a> &nbsp&nbsp&nbsp
  </div>
  </td>
  </tr>

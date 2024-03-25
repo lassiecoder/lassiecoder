@@ -3,11 +3,30 @@
    <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
   </tr>
 
-<!-- MAIN BANNER IMAGE -->
-![bannerImage](https://user-images.githubusercontent.com/17312616/138357020-e16ca3fa-58ae-40e7-b41d-7023d6763ef3.png)
- 
-<table style="width: auto">
+<!--  PROFILE HEADER RHS IMAGE  -->
+<picture>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+</picture>
 
+<!--  PROFILE HEADER INTRO (LHS)  -->
+Hello World! 👋
+
+I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+
+💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
+
+🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
+
+<!--  EXCITED CHARACTERS  -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
+
+</br>
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+<!--  EXPERTISE  -->
+### My expertise encompasses:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -32,25 +51,45 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
- 
-<!--  TROPHY  -->
- 
- <!-- <tr> 
- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lassiecoder&theme=onedark&column=6&margin-w=30&margin-h=10&no-bg=true&no-frame=true" alt="lassiecoder" />     </a></p>
- </tr> -->
- 
-<!-- STREAKS -->
- <tr>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lassiecoder&layout=compact&theme=city-lights&background=36363b00&hide_border=true&fire=yellow&border=36363b00" alt="lassiecoder" width="100%" />
- </tr>
- 
-<!--  STAT-1 -->
- <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=radical&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
- 
-<!--  STAT-2 -->
- <p align="center"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=radical&hide_border=true&hide_title=true" /> </p> 
-  <tr>
-   
- </tr>
-</table>
+</br>
+
+ <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=lassiecoder&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=586" alt="lassiecoder" width="100%" /> </p>
+
+ <!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+</br>
+
+<!--  HI PIKACHU  -->
+<img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
+
+<!--  MY GITHUB STAT  -->
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
+
+<!--  DIVIDER  -->
+<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+</br>
+
+<!--  CAT  -->
+<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+
+<!--  LANGUAGES USED  -->
+<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
+
+<!--  DIVIDER  -->
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+
+### _**You can find me on:**_
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Your_Linkedin_Profile_URL](https://www.linkedin.com/in/priyanka-s-b79401142/))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([(https://www.instagram.com/lassiecoder/))
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://sharmapriyanka84510.medium.com/)
+[![Polywork](https://img.shields.io/badge/-Polywork-4A90E2?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/priyanka_s)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lassiecoder)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lassiecoder)
+
+#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>

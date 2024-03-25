@@ -5,7 +5,7 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/ca913288-4bbb-4ef2-ac1a-9d3313cf9bbb" align="right" width="35%" alt="Image">
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->

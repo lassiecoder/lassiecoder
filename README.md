@@ -65,18 +65,15 @@ I’ve been a **Software Developer** for about **5 years**, with a passion for c
 </br>
 
 <!--  CAT AND STREAK  -->
-<p align="center">
+<!--- <p align="center">
   <img align="left" src="https://github.com/user-attachments/assets/11697f09-377f-4520-ad71-999bd9b16d2f" width="32%" alt="pikachu-hi">
   <img align="right" src="https://streak-stats.demolab.com/?user=lassiecoder&theme=dark&border_radius=8&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=600&card_height=180&background=30%2C7129B4%2C25463B&stroke=00E6EB" alt="GitHub Streak">
-</p>
-
-
+</p> --->
 
 <!--  DIVIDER  -->
-<img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+<!--- <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 </br>
-</br>
-
+</br> --->
 <!--  HI PIKACHU  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 

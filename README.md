@@ -78,19 +78,18 @@ I’ve been a **Software Developer** for about **5 years**, with a passion for c
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/d377c4aa-e247-422c-8b0f-53145acd7705" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
-<p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
-
+<!-- <p>  <img src="https://github-readme-stats.vercel.app/api?username=lassiecoder&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p> -->
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=lassiecoder&theme=tokyonight&hide_border=true" /></p>
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 </br>
 
 <!--  CAT  -->
-<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="22%" alt="pikachu-hi">
+<img align="left" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/56189985-cfa7-4adb-a986-e5dcf056bddf" width="28%" alt="pikachu-hi">
 
-<!--  LANGUAGES USED  -->
-<p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassiecoder&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
-
+<p align="right"><b>A joke a day keeps the bugs away 🐛</b></p>
+<p align="right"><img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500" /></p>
 <!--  DIVIDER  -->
 <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 

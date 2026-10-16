@@ -40,25 +40,25 @@ I’ve been a **Software Developer** for about **5 years**, with a passion for c
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/cff18550-c17d-43ff-a3c0-4cee7dc8de01" width="75">&nbsp;
 
-<!-- </br> -->
-
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
+</br> 
 
 <!--  MY CLI  -->
 ### 💻 Try My CLI
+A tiny CLI that turns your terminal into my interactive developer business card.
 
 ```bash
 npx lassiecoder
 ```
-A tiny CLI that turns your terminal into my interactive developer business card.
-
+</br> 
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
-<!--  TECH STACK & SKILLS  -->
+</br> 
 
+<!--  TECH STACK & SKILLS  -->
 
 ## 🛠️ Tech Stack & Skills
 
@@ -103,6 +103,8 @@ A tiny CLI that turns your terminal into my interactive developer business card.
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
  -->
+
+</br> 
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
